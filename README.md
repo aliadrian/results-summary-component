@@ -11,7 +11,7 @@
   <br>
 
   <div align="center">
-    <a href="">View Demo</a>
+    <a href="https://results-summary-component-by-adrian.netlify.app/">View Demo</a>
   </div>
 
 </div>
@@ -28,7 +28,7 @@ This is a solution to the [Results summary component]((https://www.frontendmento
 
 <h2>Links</h2>
 
-- Live Site URL: 
+- Live Site URL: https://results-summary-component-by-adrian.netlify.app/
 <br>
 
 ## Table of contents
